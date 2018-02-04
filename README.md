@@ -26,4 +26,6 @@ response structure: integer
 example calls: curl localhost:8080/llama?snack=Snack1  
 1  
 curl localhost:8080/llama?snack=UNKNOWN_SNACK  
-0
+0  
+
+[![CircleCI](https://circleci.com/gh/gabflow/llama_party.svg?style=svg)](https://circleci.com/gh/gabflow/llama_party)
